@@ -11,10 +11,6 @@ br {
   color: orange;
 }
 /* ----- */
-td {
-  width: 300px;
-  height: 300px;
-}
 
 #right {
   text-align: right;
@@ -23,4 +19,12 @@ td {
 #center {
   text-align: center;
   color: black;
+}
+/*  */
+th {
+  text-align: left;
+}
+
+table {
+  width: 400px;
 }
