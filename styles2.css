@@ -4,13 +4,20 @@ h1 {
 h2 {
   text-align: center;
   width: 300px;
+  font-style: italic;
 }
 table {
   width: 500px;
+  height: 300px;
 }
 td {
   text-align: center;
+  font-weight: bold;
 }
 p {
   width: 300px;
+  font-size: 30px;
+}
+#italic {
+  font-style: italic;
 }
