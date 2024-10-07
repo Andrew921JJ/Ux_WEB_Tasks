@@ -8,3 +8,21 @@ h2 {
 #arial {
   font-family: Arial;
 }
+#comic {
+  font-family: "Comic Sans MS";
+}
+#logo-text {
+  font-size: 30px;
+  line-height: 15px;
+  text-align: justify;
+  width: 400px;
+}
+#font1 {
+  font: 13px 20px Times New Roman;
+}
+#font2 {
+  font: 300px red 40px bold Arial;
+}
+#font3 {
+  font: 40px bold 50px italic 60px Arial;
+}
