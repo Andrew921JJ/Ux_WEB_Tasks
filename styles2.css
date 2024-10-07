@@ -26,3 +26,19 @@ h2 {
 #font3 {
   font: 40px bold 50px italic 60px Arial;
 }
+#abz {
+  text-indent: 50px;
+  text-align: justify;
+  width: 400px;
+}
+#underline {
+  text-decoration: underline;
+}
+#overline {
+  text-decoration: overline;
+  color: blueviolet;
+}
+#through {
+  text-decoration: line-through;
+  color: chartreuse;
+}
