@@ -1,22 +1,4 @@
-#b {
-  color: blue;
-}
-
-#l {
-  color: red;
-}
-
-#uli {
-  color: blue;
-}
-#lii {
-  color: red;
-}
-#ii {
-  color: green;
-}
-/*  */
-
+/* 51 */
 .gg {
   i {
     font-size: 30px;
@@ -47,14 +29,22 @@
     font-size: 16px;
     color: red;
   }
+}
 
-  .nftt {
-    h1 h2 h3 {
-      text-align: center;
-      color: red;
-    }
-    h3 {
-      font-size: 16px;
-    }
+.nftt {
+  h1 h2 h3 {
+    text-align: center;
+    color: red;
+  }
+  h3 {
+    font-size: 16px;
+  }
+}
+.jj {
+  ul li i {
+    color: red;
+  }
+  p i {
+    color: green;
   }
 }
