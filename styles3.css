@@ -1,6 +1,31 @@
-p {
+#b {
   color: blue;
 }
-b {
+
+#l {
   color: red;
+}
+
+#uli {
+  color: blue;
+}
+#lii {
+  color: red;
+}
+#ii {
+  color: green;
+}
+/*  */
+
+.gg {
+  i {
+    font-size: 30px;
+  }
+  ul {
+    font-size: 20px;
+  }
+  li {
+    color: red;
+    font-weight: bold;
+  }
 }
