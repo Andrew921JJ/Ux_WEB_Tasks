@@ -17,7 +17,7 @@
     text-align: center;
   }
 }
-/* 52 */
+
 .nft {
   h1 h2 h3 {
     text-align: center;
@@ -40,11 +40,21 @@
     font-size: 16px;
   }
 }
+/* 52 */
 .jj {
   ul li i {
     color: red;
   }
   p i {
     color: green;
+  }
+}
+/* 53 */
+.kk {
+  ul > li b {
+    color: rebeccapurple;
+  }
+  ul li b > i {
+    color: black;
   }
 }
