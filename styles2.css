@@ -42,3 +42,13 @@ h2 {
   text-decoration: line-through;
   color: chartreuse;
 }
+#hg {
+  text-decoration: none;
+  color: crimson;
+}
+#fd {
+  color: red;
+}
+i {
+  font-family: Impact;
+}
