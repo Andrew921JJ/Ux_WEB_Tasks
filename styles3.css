@@ -1,4 +1,5 @@
 /* 51 */
+
 .gg {
   i {
     font-size: 30px;
@@ -80,4 +81,29 @@
 }
 .fcc {
   color: rgb(17, 134, 206);
+}
+/* 58 */
+.eee {
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: Arial;
+}
+.zzz {
+  font-size: 30px;
+  line-height: 1.5;
+  font-family: Arial;
+}
+
+.ee .gg .zz {
+  font-size: 20px;
+  text-align: center;
+  font-family: Arial;
+  color: aqua;
+}
+.zz {
+  font-size: 30px;
+  color: red;
+}
+.gg {
+  font-size: 35px;
 }
