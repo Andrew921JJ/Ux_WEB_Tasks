@@ -49,7 +49,7 @@
     color: green;
   }
 }
-/* 53 */
+/* 54 */
 .kk {
   ul > li b {
     color: rebeccapurple;
@@ -57,4 +57,14 @@
   ul li b > i {
     color: black;
   }
+}
+/* 55 */
+.odd .eee {
+  color: red;
+}
+.eve {
+  color: green;
+}
+.eee {
+  color: red;
 }
