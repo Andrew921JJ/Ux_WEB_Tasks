@@ -66,9 +66,7 @@
 .eve {
   color: green;
 }
-.eee {
-  color: red;
-}
+
 .xxx {
   font-size: 30px;
 }
@@ -83,11 +81,7 @@
   color: rgb(17, 134, 206);
 }
 /* 58 */
-.eee {
-  font-size: 20px;
-  line-height: 1.5;
-  font-family: Arial;
-}
+
 .zzz {
   font-size: 30px;
   line-height: 1.5;
@@ -106,4 +100,16 @@
 }
 .gg {
   font-size: 35px;
+}
+/* 59 */
+h2.header {
+  color: rebeccapurple;
+  font-size: 35px;
+}
+h3.header {
+  color: rgb(51, 153, 133);
+  font-size: 40px;
+}
+.eee i {
+  color: rebeccapurple;
 }
