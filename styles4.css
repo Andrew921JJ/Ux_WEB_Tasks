@@ -1,0 +1,38 @@
+.hh {
+  .success {
+    color: green;
+    font-size: 35px;
+  }
+  .error {
+    color: red;
+  }
+  .large {
+    color: red;
+    font-size: 35px;
+  }
+  .small {
+    color: aqua;
+    font-size: 20px;
+  }
+}
+.yy {
+  #elem1 {
+    color: rebeccapurple;
+  }
+  #elem2 {
+    color: blue;
+  }
+  #elem2 {
+    color: rgb(30, 213, 52);
+  }
+}
+
+.hhg {
+  #block {
+    color: rebeccapurple;
+  }
+  .text {
+    font-size: 20px;
+    color: brown;
+  }
+}
