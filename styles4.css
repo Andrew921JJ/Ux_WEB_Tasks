@@ -36,3 +36,19 @@
     color: brown;
   }
 }
+.zzz {
+  #elem1 h2 {
+    color: rebeccapurple;
+  }
+  #elem2 .text {
+    color: rebeccapurple;
+  }
+  #elem3 .text {
+    color: rgb(244, 16, 16);
+  }
+}
+.vf {
+  .eee.zzz.ccc {
+    color: red;
+  }
+}
