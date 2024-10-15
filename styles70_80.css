@@ -46,38 +46,34 @@
   }
 } */
 /*  */
-.bbb,
+/* .bbb,
 .xxx {
   color: red;
 }
-/*  */
-.fff {
-  p .bbb {
-    color: orange;
-  }
-  h2 .xxx {
-    color: blueviolet;
-  }
-}
-.ft {
-  .text {
-    color: green; /* применится этот цвет */
-  }
-  /*  */
+/* ???? */
 
-  #elem {
-    color: green; /* применится этот цвет */
-  }
-  /*  */
-  p {
+hff {
+  li > #elem {
     color: red;
   }
-  div p {
-    color: green; /* применится этот цвет */
-  }
-  /*  */
+}
 
-  .block .text {
-    color: rgb(0, 92, 108); /* применится этот цвет */
+/*    */
+.jf {
+  .hu * {
+    color: red;
+  }
+}
+
+/*  */
+.gg {
+  .title {
+    color: crimson;
+  }
+  .title #hello {
+    color: rgb(65, 57, 23);
+  }
+  a {
+    color: blueviolet;
   }
 }
