@@ -59,3 +59,25 @@
     color: blueviolet;
   }
 }
+.ft {
+  .text {
+    color: green; /* применится этот цвет */
+  }
+  /*  */
+
+  #elem {
+    color: green; /* применится этот цвет */
+  }
+  /*  */
+  p {
+    color: red;
+  }
+  div p {
+    color: green; /* применится этот цвет */
+  }
+  /*  */
+
+  .block .text {
+    color: rgb(0, 92, 108); /* применится этот цвет */
+  }
+}
