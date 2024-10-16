@@ -1,0 +1,21 @@
+.fd {
+  li:not(.elem) {
+    color: red;
+  }
+}
+.gg {
+  li:not(:first-child) {
+    color: red;
+  }
+  li:not(:last-child) {
+    color: red;
+  }
+}
+.gf {
+  li:last-child {
+    color: blueviolet;
+  }
+  li:first-child {
+    color: blueviolet;
+  }
+}
