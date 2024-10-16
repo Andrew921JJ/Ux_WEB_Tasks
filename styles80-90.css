@@ -23,4 +23,35 @@ a:active {
   li:first-child {
     color: red;
   }
+  li:last-child {
+    color: chartreuse;
+  }
+  li:nth-child(4) {
+    color: grey;
+  }
+  li:nth-last-child(3) {
+    color: rgb(137, 28, 227);
+  }
+  /*  */
+  li:only-child {
+    color: red;
+  }
+
+  ul {
+    margin-bottom: 10px;
+  }
+}
+.ffd {
+  li:empty {
+    border: 1px solid blue;
+    list-style-type: circle;
+    color: blue;
+    width: 100px;
+  }
+  #fg {
+    border: 1px solid blue;
+    list-style-type: circle;
+    color: blue;
+    width: 100px;
+  }
 }
