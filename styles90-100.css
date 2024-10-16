@@ -1,3 +1,6 @@
+br {
+  color: brown;
+}
 .fd {
   li:not(.elem) {
     color: red;
@@ -18,4 +21,72 @@
   li:first-child {
     color: blueviolet;
   }
+}
+.gft {
+  width: 300px;
+  height: 100px;
+  background: rebeccapurple;
+  text-align: center;
+}
+#el {
+  border-width: 10px;
+  border-style: solid;
+  border-color: rebeccapurple;
+  width: 300px;
+  height: 100px;
+}
+#er {
+  border-width: 5px;
+  border-style: dotted;
+  border-color: rebeccapurple;
+  width: 300px;
+  height: 100px;
+}
+#et {
+  border-width: 5px;
+  border-style: dashed;
+  border-color: gray;
+  width: 300px;
+  height: 100px;
+}
+#em {
+  border-width: 3px;
+  border-style: ridge;
+  border-color: black;
+  width: 300px;
+  height: 100px;
+}
+#eh {
+  border-width: 5px;
+  border-style: double;
+  border-color: rebeccapurple;
+  width: 300px;
+  height: 300px;
+}
+#ej {
+  border: 1px solid red;
+  width: 300px;
+  height: 100px;
+}
+
+#eh {
+  border: 5px, double rgb(10, 198, 182);
+  width: 300px;
+  height: 300px;
+}
+#ll {
+  width: 300px;
+  height: 100px;
+  border-left: 1px solid red;
+  border-right: 1px solid grey;
+  border-top: 1px solid rebeccapurple;
+  border-bottom: 1px solid rgb(30, 196, 174);
+}
+#lf {
+  width: 300px;
+  height: 100px;
+  border-left: 1px dotted red;
+  border-right: 1px dotted grey;
+  border-top: 1px solid rebeccapurple;
+  border-bottom: 1px solid rgb(30, 196, 174);
 }
