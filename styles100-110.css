@@ -43,3 +43,22 @@ body {
   border: 1px solid rebeccapurple;
   border-radius: 50%;
 }
+#im {
+  width: 300px;
+  height: 300px;
+  background-image: url(img/bg.png);
+}
+#hg {
+  background-repeat: repeat-x;
+  background-image: url(img/bg.png);
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+}
+#hgf {
+  background-repeat: repeat-y;
+  background-image: url(img/bg.png);
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+}
