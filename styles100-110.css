@@ -1,0 +1,45 @@
+body {
+  background-color: ghostwhite;
+}
+#eg {
+  width: 300px;
+  height: 300px;
+  border: 1px solid rebeccapurple;
+  border-radius: 10px;
+}
+#eh {
+  border-radius: 20px;
+  width: 300px;
+  height: 350px;
+  background-color: #300153;
+}
+#ez {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: 1px solid blueviolet;
+}
+#el {
+  width: 300px;
+  height: 300px;
+  border: 1px solid gray;
+  border-radius: 10px 50px 60px 40px;
+}
+#en {
+  width: 300px;
+  height: 300px;
+  border: 1px solid rebeccapurple;
+  border-radius: 10px 40px;
+}
+#ei {
+  width: 300px;
+  height: 300px;
+  border: 1px solid green;
+  border-radius: 10px 40px 40px;
+}
+#re {
+  width: 100px;
+  height: 100px;
+  border: 1px solid rebeccapurple;
+  border-radius: 50%;
+}
