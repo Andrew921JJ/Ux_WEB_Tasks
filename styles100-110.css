@@ -4,11 +4,11 @@ body {
 #eg {
   width: 300px;
   height: 300px;
-  border: 1px solid rebeccapurple;
-  border-radius: 10px;
+  border: 1px solid #663399;
+  border-radius: 30px;
 }
 #eh {
-  border-radius: 20px;
+  border-radius: 30px;
   width: 300px;
   height: 350px;
   background-color: #300153;
@@ -61,4 +61,42 @@ body {
   width: 400px;
   height: 300px;
   border: 1px solid black;
+}
+#hgj {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 10%;
+}
+#jh {
+  width: 300px;
+  height: 100px;
+  border: 1px solid #5310f1;
+  border-radius: 5px 20px 30px;
+}
+#hg {
+  width: 300px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 10px 40px;
+}
+#hj {
+  list-style-type: square;
+}
+#uy {
+  #oa {
+    list-style-type: lower-roman;
+  }
+  #ob {
+    list-style-type: upper-roman;
+  }
+  #oc {
+    list-style-type: lower-alpha;
+  }
+  #od {
+    list-style-type: lower-greek;
+  }
+  oe {
+    list-style-type: decimal-leading-zero;
+  }
 }
